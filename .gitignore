@@ -1,0 +1,17 @@
+# Node.js modules
+node_modules/
+
+# Environment variables
+.env
+
+# Firebase service account (maxfiy)
+serviceAccountKey.json
+
+
+
+# OS va IDE fayllari
+.DS_Store
+*.log
+
+
+
