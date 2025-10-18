@@ -9,7 +9,7 @@ serviceAccountKey.json
 
 
 
-# OS va IDE fayllari
+
 .DS_Store
 *.log
 
